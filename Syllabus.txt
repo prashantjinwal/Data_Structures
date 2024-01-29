@@ -1,0 +1,47 @@
+---- Prashant ----
+
+Unit 1 :--
+
+Arrays --> single , Mutli-dimensional ,Sparse
+Sorting --> Bubble , Selection, insertion , Merge and Quick 
+Searching --> Linear and Binary 
+
+
+
+Unit 2 :-- 
+Stacks
+
+Implementing using Array,
+prefix , Infix postfix expressions,
+Application of Stacks for conserion of infix to prefix and postfix expressions,
+Evaluation of postfix expressions
+
+
+Unit 3 :-- 
+Queues
+
+Implementing simple Queue ,
+circular Queues , priority Queues using Array
+
+
+
+Unit 4 :-- 
+Linked lists 
+
+single , double and circular Implementing Stacks and Queue 
+
+
+
+Unit 5 :--
+Recursion
+
+Recursive solutions to simple problems and their Implementing , 
+Advantages , Limiations
+
+
+Unit 6 :--
+Trees
+
+introduction to Tree as a data structure ,
+Binary Trees ,
+Binary Search Tree -creation and traversal techniques
