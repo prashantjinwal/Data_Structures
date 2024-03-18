@@ -47,12 +47,14 @@ int main() {
 //	cout << node1 -> next <<endl;
 	
 	Node* tail = node1;
+ Node* head = node1;
 	
 	InsertingAtTail(tail,12);
 	InsertingAtTail(tail,34);
 	InsertingAtTail(tail,23);
 
-	printTLL(tail);
+	printTLL(head);
+
 	
 
 	
