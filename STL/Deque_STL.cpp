@@ -10,6 +10,7 @@ int main() {
   d.push_back(44);
   d.push_front(33);
   d.push_front(55);
+  d.push_front(85);
   
   for(int i : d){
     cout<<i <<" ";
